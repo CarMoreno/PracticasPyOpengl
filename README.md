@@ -1,6 +1,6 @@
 ## PracticasPyOpengl
 ====================================================================================
-_Por_ _[Viviana Andrea Bolaños][1]_ y _[Carlos Andrés Moreno][2]_
+_Por_ _[Viviana Andrea Zuluaga][1]_ y _[Carlos Andrés Moreno][2]_
 
 Prácticas realizadas con la librería [PyOpenGL][3] usando Python 2.7, en cada práctica se puede observar la implementación de
 varias funcionalidades que nos ofrece esta librería, como por ejemplo: Generación de figuras en 2d y 3d, manejo de eventos,
